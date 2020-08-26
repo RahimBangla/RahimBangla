@@ -34,12 +34,11 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdurrahimbd/)](https://www.linkedin.com/in/abdurrahimbd/)
 ![GitHub followers](https://img.shields.io/github/followers/RahimBangla?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=RahimBangla.RahimBangla)
-![Waka Readme](https://github.com/RahimBangla/RahimBangla/workflows/Waka%20Readme/badge.svg)
 
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx anmol
+npx rahimbangla
 ```
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
