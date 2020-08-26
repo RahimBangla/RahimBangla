@@ -1,7 +1,34 @@
 ### Hi there 👋
 
 
-**RahimBangla/RahimBangla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+
+<a href="https://discord.gg/ad3Sd4">
+  <img align="left" alt="Abdur Rahim's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+<a href="https://twitter.com/abdurrahimlive">
+  <img align="left" alt="Abdur Rahim's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/abdurrahimbd/">
+  <img align="left" alt="Abdur Rahim's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/RahimBangla">
+  <img align="left" alt="Abdur Rahim's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/abdurrahimlive/">
+  <img align="left" alt="Abdur Rahim's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/">
+  <img align="left" alt="Abdur Rahim's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://leetcode.com/">
+  <img align="left" alt="Abdur Rahim's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=RahimBangla.RahimBangla)
+
+<br />
+
 
 Here are some ideas to get you started:
 
