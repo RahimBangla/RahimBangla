@@ -4,7 +4,6 @@
 <h3 align="left">
  <abc>
   <br> I'm a Frontend and Backend Web/Software Developer. <br>
-  <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
  </abc>
 </h3> 
@@ -12,7 +11,6 @@
    ####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/Google%20Cloud-%7C-orange) ![](https://img.shields.io/badge/Azure-%7C-blue)
 
 
-<br/>
 
 <a href="https://discord.gg/ad3Sd4">
   <img align="left" alt="Abdur Rahim's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -40,12 +38,12 @@
 <br />
 
 
-
+<div align="left">
 ![Twitter Follow](https://img.shields.io/twitter/follow/abdurrahimlive?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-RahimBangla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdurrahimbd/)](https://www.linkedin.com/in/abdurrahimbd/)
 ![GitHub followers](https://img.shields.io/github/followers/RahimBangla?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=RahimBangla.RahimBangla)
-
+</div>
 
 👇 Hit in your console or terminal to connect with me.
 
