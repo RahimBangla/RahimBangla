@@ -38,12 +38,12 @@
 <br />
 
 
-<div align="left">
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/abdurrahimlive?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-RahimBangla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdurrahimbd/)](https://www.linkedin.com/in/abdurrahimbd/)
 ![GitHub followers](https://img.shields.io/github/followers/RahimBangla?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=RahimBangla.RahimBangla)
-</div>
+
 
 👇 Hit in your console or terminal to connect with me.
 
