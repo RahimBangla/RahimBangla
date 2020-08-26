@@ -92,12 +92,12 @@ const anmol = {
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/RahimBangla/);
+- 👨🏽‍💻 I’m currently working on [CARTTOPAY](https://github.com/Carttopay/carttopay);
 - 🌱 I’m currently learning GraphQL and C++; 
-- 👯 I’m looking to collaborate on [A-POP](https://github.com/RahimBangla/) 🤝;
+- 👯 I’m looking to collaborate on [CARTTOPAY](https://github.com/Carttopay/carttopay) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://rahimbangla.elecolab.com/) in 2018, and sold almost **750+** Notes so far!
+- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [RahimBangla](https://rahimbangla.elecolab.com/) in 2018, and sold almost **750+** Notes so far!
 - 📫 How to reach me: rahimbd623@gmail.com;
 - 📝[Resume](https://drive.google.com/file/)
 
