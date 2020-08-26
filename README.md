@@ -25,13 +25,12 @@
   <img align="left" alt="Abdur Rahim's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=RahimBangla.RahimBangla)
 
 <br />
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/abdurrahimlive?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdurrahimbd/)](https://www.linkedin.com/in/abdurrahimbd/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-RahimBangla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdurrahimbd/)](https://www.linkedin.com/in/abdurrahimbd/)
 ![GitHub followers](https://img.shields.io/github/followers/RahimBangla?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=RahimBangla.RahimBangla)
 
