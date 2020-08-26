@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 <h3 align="left">
  <abc>
   <br> I'm a Frontend and Backend Web/Software Developer. <br>
@@ -37,7 +36,11 @@
 
 <br />
 
-
+<br>
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p>
+<br>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/abdurrahimlive?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-RahimBangla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdurrahimbd/)](https://www.linkedin.com/in/abdurrahimbd/)
@@ -120,6 +123,9 @@ const anmol = {
 ![RahimBangla's github stats](https://github-readme-stats.vercel.app/api?username=RahimBangla&show_icons=true)
 
 
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+
+
 <h2><i>Follow me:</i></h2>
 <div  align="center">
 
@@ -149,3 +155,9 @@ const anmol = {
     <img src="https://img.shields.io/badge/Fiver-%231877F2.svg?&style=flat-square&logo=fiver&logoColor=white&color=071A2C" alt="Fiver">
   </a>
 </div>
+
+<img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="20%" height="10%">
+<a href="https://www.hackerrank.com/AbdurRahim">
+      <img src="https://additionalknowledge.files.wordpress.com/2017/12/hackerrank.png?w=600" height="10%" ; width="15%" ;></img></a>
+<a href="https://www.linkedin.com/in/abdurrahimbd/">
+  <img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011%E2%80%932019.png" height="10%" ; width="15%" ; margin-left:20px;></img></a>
