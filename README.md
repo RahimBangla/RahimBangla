@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+   
+![](https://visitor-badge.glitch.me/badge?page_id=RahimBangla.RahimBangla)
+
+
+
+
 <h3 align="left">
  <abc>
   <br> I'm a Frontend and Backend Web/Software Developer. <br>
@@ -10,10 +16,6 @@
    ####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/Google%20Cloud-%7C-orange) ![](https://img.shields.io/badge/Azure-%7C-blue)
    
    
-   
-![](https://visitor-badge.glitch.me/badge?page_id=RahimBangla.RahimBangla)
-
-
 
 <a href="https://discord.gg/ad3Sd4">
   <img align="left" alt="Abdur Rahim's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -125,13 +127,8 @@ const rahimbangla = {
 
 
 
-<a href="https://github.com/RahimBangla/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahimBangla&layout=compact" />
-</a>
+<a href="https://github.com/RahimBangla/"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahimBangla&layout=compact" /> </a> ![RahimBangla's github stats](https://github-readme-stats.vercel.app/api?username=RahimBangla&show_icons=true)
 
-<br><br>
-
-![RahimBangla's github stats](https://github-readme-stats.vercel.app/api?username=RahimBangla&show_icons=true)
 
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
