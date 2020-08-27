@@ -1,9 +1,4 @@
-### Hi there 👋
-
-   
-![](https://visitor-badge.glitch.me/badge?page_id=RahimBangla.RahimBangla)
-
-
+### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=RahimBangla.RahimBangla)
 
 
 <h3 align="left">
@@ -127,7 +122,7 @@ const rahimbangla = {
 
 
 
-<a href="https://github.com/RahimBangla/"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahimBangla&layout=compact" /> </a> ![RahimBangla's github stats](https://github-readme-stats.vercel.app/api?username=RahimBangla&show_icons=true)
+<a href="https://github.com/RahimBangla/"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahimBangla&layout=compact" />  ![RahimBangla's github stats](https://github-readme-stats.vercel.app/api?username=RahimBangla&show_icons=true) </a>
 
 
 
