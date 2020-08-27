@@ -9,7 +9,9 @@
 
    ####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/Google%20Cloud-%7C-orange) ![](https://img.shields.io/badge/Azure-%7C-blue)
    
-   ![](https://visitor-badge.glitch.me/badge?page_id=RahimBangla.RahimBangla)
+   
+   
+![](https://visitor-badge.glitch.me/badge?page_id=RahimBangla.RahimBangla)
 
 
 
@@ -123,11 +125,11 @@ const rahimbangla = {
 
 
 
-<a href="https://github.com/RahimBangla/github-readme-stats">
+<a href="https://github.com/RahimBangla/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahimBangla&layout=compact" />
 </a>
 
-<br>
+<br><br>
 
 ![RahimBangla's github stats](https://github-readme-stats.vercel.app/api?username=RahimBangla&show_icons=true)
 
