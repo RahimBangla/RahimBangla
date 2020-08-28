@@ -60,20 +60,21 @@ npx rahimbangla
 ```javascript
 const rahimbangla = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php"],
+    code: ["Javascript", "Typescript", "Python", "Java", "php", "C++", "C#"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
             js: ["Vue", "Nuxt", "React"],
-            css: ["materialize", "vuetify", "bootstrap"]
+            css: ["materialize", "vuetify", "bootstrap", "saxjs"]
         },
         backEnd: {
             js: ["node", "express", "SuiteScript"],
-            python: ["flask", "django"]
+            python: ["flask", "django"],
+            php: ["laravel", "codeIgniter"]
         },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
+        devOps: ["Heroku", "GoogleCloud", "AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite", "PostgreSQL"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
@@ -98,7 +99,7 @@ const rahimbangla = {
 - 👯 I’m looking to collaborate on [CARTTOPAY](https://github.com/Carttopay/carttopay) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [RahimBangla](https://rahimbangla.elecolab.com/) in 2018, and sold almost **750+** Notes so far!
+- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [RahimBangla](https://rahimbangla.elecolab.com/) in 2015, and sold almost **750+** Notes so far!
 - 📫 How to reach me: rahimbd623@gmail.com;
 - 📝[Resume](https://drive.google.com/file/)
 
