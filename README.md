@@ -156,7 +156,7 @@ const rahimbangla = {
     <img src="https://img.shields.io/badge/Upwork-%231877F2.svg?&style=flat-square&logo=upwork&logoColor=white&color=071A2C" alt="Upwork">
   </a>
 <a href="https://www.fiverr.com/rahimbangla" target="_blank">
-    <img src="https://img.shields.io/badge/Fiver-%231877F2.svg?&style=flat-square&logo=fiver&logoColor=white&color=071A2C" alt="Fiver">
+    <img src="https://img.shields.io/badge/Fiverr-%231877F2.svg?&style=flat-square&logo=fiver&logoColor=white&color=071A2C" alt="Fiverr">
   </a>
 </div>
 
