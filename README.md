@@ -101,7 +101,7 @@ const rahimbangla = {
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [RahimBangla](https://rahimbangla.elecolab.com/) in 2015, and sold almost **750+** Notes so far!
 - 📫 How to reach me: rahimbd623@gmail.com;
-- 📝[Resume](https://drive.google.com/file/)
+- 📝[Resume](https://rahimbangla.github.io/Abdur_Rahim_CV.pdf)
 
 **Languages and Tools:**  
 
