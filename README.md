@@ -95,7 +95,7 @@ const rahimbangla = {
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [CARTTOPAY](https://github.com/Carttopay/carttopay);
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning GraphQL, C# and C++; 
 - 👯 I’m looking to collaborate on [CARTTOPAY](https://github.com/Carttopay/carttopay) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
