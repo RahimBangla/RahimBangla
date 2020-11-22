@@ -60,7 +60,7 @@ npx rahimbangla
 ```javascript
 const rahimbangla = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php", "C++", "C#"],
+    code: ["Javascript", "Typescript", "Python", "Java", "php", "C++", "C#", "GO"],
     askMeAbout: ["web dev", "tech", "app dev", "photography"],
     technologies: {
         mobileApp: ["Android App"],
@@ -69,6 +69,7 @@ const rahimbangla = {
             css: ["materialize", "vuetify", "bootstrap", "saxjs"]
         },
         backEnd: {
+            GO: ["fiber", "beego"],
             js: ["node", "express", "SuiteScript"],
             python: ["flask", "django"],
             php: ["laravel", "codeIgniter"]
@@ -95,7 +96,7 @@ const rahimbangla = {
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [CARTTOPAY](https://github.com/Carttopay/carttopay);
-- 🌱 I’m currently learning GraphQL, C# and C++; 
+- 🌱 I’m currently learning GraphQL, C# and Golang; 
 - 👯 I’m looking to collaborate on [CARTTOPAY](https://github.com/Carttopay/carttopay) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
