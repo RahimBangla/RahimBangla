@@ -72,7 +72,8 @@ const rahimbangla = {
             GO: ["fiber", "beego"],
             js: ["node", "express", "SuiteScript"],
             python: ["flask", "django"],
-            php: ["laravel", "codeIgniter"]
+            php: ["laravel", "codeIgniter"],
+            C#: ["dotnet Core 5"]
         },
         devOps: ["Heroku", "GoogleCloud", "AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite", "PostgreSQL"],
