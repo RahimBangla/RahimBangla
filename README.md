@@ -129,7 +129,7 @@ const rahimbangla = {
 
 
 
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+![image](/dino.gif)
 
 
 <h2><i>Follow me:</i></h2>
