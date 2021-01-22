@@ -127,9 +127,9 @@ const rahimbangla = {
 
 <a href="https://github.com/RahimBangla/"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahimBangla&layout=compact" />  ![RahimBangla's github stats](https://github-readme-stats.vercel.app/api?username=RahimBangla&show_icons=true) </a>
 
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rahimbangla"
-/>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rahimbangla"/>
+
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=rahimbangla"/>
 
 ![image](/dino.gif)
 
