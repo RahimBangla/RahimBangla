@@ -129,7 +129,7 @@ const rahimbangla = {
 
 <a href="https://profile.codersrank.io/user/rahimbangla" target="_blank">
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rahimbangla&badges=5&show-avatar=false&style=--border-radius:10px" />
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rahimbangla&badges=5&show-avatar=false" />
 
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rahimbangla"/>
 
