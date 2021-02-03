@@ -75,7 +75,7 @@ const rahimbangla = {
             php: ["laravel", "codeIgniter"],
             C#: ["dotnet Core 5"]
         },
-        devOps: ["Heroku", "GoogleCloud", "AWS", "Docker🐳", "Route53", "Nginx"],
+        devOps: ["Heroku", "GoogleCloud", "AWS", "Docker🐳", "Route53", "Nginx", "Local/Global Server Networking"],
         databases: ["mongo", "MySql", "sqlite", "PostgreSQL"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
