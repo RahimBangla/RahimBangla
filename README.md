@@ -98,7 +98,7 @@ const rahimbangla = {
 
 - 👨🏽‍💻 I’m currently working on [HomePay](https://homepay.io);
 - 🌱 I’m currently learning GraphQL, C# and dotnet; 
-- 👯 I’m looking to collaborate on [Blaze](https://homepay.io) 🤝;
+- 👯 I’m looking to collaborate on [Blaze XL](https://homepay.io) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [RahimBangla](https://rahimbangla.elecolab.com/) in 2015, and sold almost **750+** Notes so far!
