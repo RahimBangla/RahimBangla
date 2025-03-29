@@ -52,7 +52,7 @@
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx rahimbangla
+curl rahimbangla.github.com
 ```
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
