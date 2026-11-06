@@ -1,174 +1,143 @@
-### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=RahimBangla.RahimBangla)
-
-
-<h3 align="left">
- <abc>
-  <br> I'm a Frontend and Backend Web/Software Engineer. <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
- </abc>
-</h3> 
-
-   ####      ![](https://img.shields.io/badge/Web%20Development-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/JavaScript-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/C++-%7C-yellowgreen) ![](https://img.shields.io/badge/Google%20Cloud-%7C-orange) ![](https://img.shields.io/badge/Azure-%7C-blue)
-   
-   
-
-<a href="https://discord.gg/ad3Sd4">
-  <img align="left" alt="Abdur Rahim's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-<a href="https://twitter.com/abdurrahimlive">
-  <img align="left" alt="Abdur Rahim's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abdurrahimbd/">
-  <img align="left" alt="Abdur Rahim's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/RahimBangla">
-  <img align="left" alt="Abdur Rahim's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/abdurrahimlive/">
-  <img align="left" alt="Abdur Rahim's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/">
-  <img align="left" alt="Abdur Rahim's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://leetcode.com/">
-  <img align="left" alt="Abdur Rahim's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+<a href="https://rahimbangla.com">
+  <img src="banner.svg" width="100%" alt="Md Abdur Rahim Sarkar, technical lead at HomePay LLC in charge of the Mobile Wallet Remittance Aggregator">
 </a>
 
-
-<br />
-
-<br>
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  <a href="mailto:rahimbd623@gmail.com"><img src="https://img.shields.io/badge/Email_me-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email me"></a>
+  <a href="https://rahimbangla.com"><img src="https://img.shields.io/badge/rahimbangla.com-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/abdurrahimbd/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://x.com/rahimbd623"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X (Twitter)"></a>
+  <a href="https://t.me/RahimBangla"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram"></a>
 </p>
-<br>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/abdurrahimlive?label=Follow)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-RahimBangla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdurrahimbd/)](https://www.linkedin.com/in/abdurrahimbd/)
-![GitHub followers](https://img.shields.io/github/followers/RahimBangla?label=Follow&style=social)
+<p align="center">
+  <img src="https://img.shields.io/badge/in_tech_since-2016-000000?style=flat-square&labelColor=333333" alt="In tech since 2016">
+  <img src="https://img.shields.io/badge/roles_at_HomePay-4-000000?style=flat-square&labelColor=333333" alt="4 roles at HomePay">
+  <img src="https://img.shields.io/badge/based_in-Dhaka,_Bangladesh-000000?style=flat-square&labelColor=333333" alt="Based in Dhaka, Bangladesh">
+  <img src="https://komarev.com/ghpvc/?username=RahimBangla&label=profile+views&color=000000&style=flat-square" alt="Profile views">
+</p>
 
+**Technical Lead at [HomePay LLC](https://homepay.io)**, in charge of an MFS Aggregator System for international remittance into mobile wallets.
 
-
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-curl rahimbangla.github.com
-```
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const rahimbangla = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java", "php", "C++", "C#", "GO"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        mobileApp: ["Android App"],
-        frontEnd: {
-            js: ["Vue", "Nuxt", "React"],
-            css: ["materialize", "vuetify", "bootstrap", "saxjs"]
-        },
-        backEnd: {
-            GO: ["fiber", "beego"],
-            js: ["node", "express", "SuiteScript"],
-            python: ["flask", "django"],
-            php: ["laravel", "codeIgniter"],
-            C#: ["dotnet Core 5"]
-        },
-        devOps: ["Heroku", "GoogleCloud", "AWS", "Docker🐳", "Route53", "Nginx", "Local/Global Server Networking"],
-        databases: ["mongo", "MySql", "sqlite", "PostgreSQL"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am developing Extension for NetSuite using SuiteScript2.0",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+I specialize in high-throughput C# and .NET microservices, Azure Functions and Kubernetes, shipped through modern CI/CD pipelines. Underneath the cloud work are deep infrastructure fundamentals: I started in 2016 as a founding network engineer at an ISP startup, and today I run secure peer-to-peer VPN partner integrations and self-hosted network environments.
 
 ---
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1539-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
+## About
 
+My first step was a small one. In 2011 I opened a Gmail account and made a Facebook profile, and I couldn't stop wondering how it all worked behind the screen. In 2012 I learned XHTML and put my first website live on Wapka, right from my phone. In 2013 I learned my first programming language, C, and in 2015 I went to Chittagong for my first national programming contest. That's where my journey in tech really began.
 
-**Talking about Personal Stuffs:**
+In 2016 I became a founding member and the network engineer of Roshni Communications, a new ISP in Cumilla, designing and running its network and operations center. Then I moved up the stack one step at a time, and in 2022, a few months into my CSE degree, I joined HomePay as a QA engineer. Today I'm the technical lead of the Mobile Wallet Remittance Aggregator, moving money from around the world into MFS wallets in Bangladesh.
 
-- 👨🏽‍💻 I’m currently working on [HomePay](https://homepay.io);
-- 🌱 I’m currently learning GraphQL, C# and dotnet Core; 
-- 👯 I’m looking to collaborate on [Blaze](https://homepay.io) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [RahimBangla](https://rahimbangla.github.io/) in 2015, and sold almost **750+** Notes so far!
-- 📫 How to reach me: rahimbd623@gmail.com;
-- 📝[Resume](https://rahimbangla.github.io/Abdur_Rahim_CV.pdf)
+Outside work I love traveling and exploring new places, so if you know somewhere worth seeing, say hi.
 
-**Languages and Tools:**  
+`2011` First Gmail and Facebook &nbsp;→&nbsp; `2012` First website &nbsp;→&nbsp; `2013` First program, in C &nbsp;→&nbsp; `2015` National programming contest &nbsp;→&nbsp; `2016` Founding member, ISP startup &nbsp;→&nbsp; `2022` Joined HomePay &nbsp;→&nbsp; `2025` Technical lead
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Currently</b>
+      <ul>
+        <li>Leading the Mobile Wallet Remittance Aggregator at HomePay</li>
+        <li>Building .NET microservices and serverless on Kubernetes in Azure</li>
+        <li>Exploring AI-driven decentralized fintech</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <b>Education</b>
+      <ul>
+        <li>B.Sc. in CSE, Green University of Bangladesh <sub>(2021 – 2025)</sub></li>
+        <li>HSC, Science, Dania College <sub>(2018 – 2020)</sub></li>
+        <li>SSC, Science, Companigonj Badiul Alam High School <sub>(2013 – 2018)</sub></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
+## Focus
 
+| | |
+|---|---|
+| **AI-driven decentralized fintech** | Payment systems that use AI for fraud detection, risk scoring and smart transaction routing, on decentralized architectures with no single point of control. |
+| **.NET and C#** | Microservices and APIs in ASP.NET Core, built for payment workloads. |
+| **Kubernetes and serverless** | Containerized services on Kubernetes alongside event-driven Azure Functions, across the Azure ecosystem. |
+| **DevOps and CI/CD** | Automated pipelines that build, test and deploy every service, from commit to production. |
+| **Networking** | Peer-to-peer VPN connectivity between organizations and networking for self-hosted services, grounded in years of ISP work. |
 
+## Selected work
 
+### Mobile Wallet Remittance Aggregator `leading now`
+Architecture and end-to-end delivery of an enterprise remittance aggregation platform connecting tier-1 global money transfer operators (MTOs) to a top-tier national mobile financial service (MFS) network in South Asia.<br>
+`C#` `.NET microservices` `Azure` `Kubernetes` `Serverless` `CI/CD` `P2P VPN` · [homepay.io ↗](https://homepay.io)
 
-<a href="https://github.com/RahimBangla/"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahimBangla&layout=compact" />  ![RahimBangla's github stats](https://github-readme-stats.vercel.app/api?username=RahimBangla&show_icons=true) </a>
+### Blaze by HomePay `fintech`
+The payment network connecting global remittances to local financial ecosystems. Remittance companies send payouts through one API, and the money lands in bank accounts and mobile wallets in Bangladesh, with settlement reports, webhooks and dispute handling for partners.<br>
+`Remittance payouts` `Partner API` `Webhooks` `Settlement` · [homepay.io ↗](https://homepay.io)
 
-<a href="https://profile.codersrank.io/user/rahimbangla" target="_blank">
+### MutualCall `recent`
+Premium pay-per-call platform connecting advertisers and publishers. I built the MutualCall console: a microservice backend on .NET 10 and a Vite + React front end, with real-time call routing, call tracking, analytics and reporting.<br>
+`.NET 10` `C#` `React` `TypeScript` `Docker` · [Console ↗](https://console.mutualcall.com/) · [Live site ↗](https://mutualcall.com/)
 
+| Project | What it is | Links |
+|---|---|---|
+| **Youth for Bangladesh** | Website and donation system for a volunteer youth nonprofit, plus its admin portal, the Valo Kajer Hotel free-meal site and YFBD EMS, an Android attendance app with selfie and GPS check-in. | [Site](https://yfbd.org/) · [Admin](https://admin.yfbd.org/) · [VKH](https://vkhbd.org/) · [App](https://play.google.com/store/apps/details?id=org.yfbd.ems&hl=en) |
+| **CDR i2 Analyzer** | Browser tool for call detail records: map columns, explore calls as a link graph, filter, highlight and export. | [Live](https://rahimbangla.com/cdr/) · [Source](https://github.com/RahimBangla/cdr) |
+| **Ollama Chat UI** | Browser chat interface for local LLMs running with Ollama, with image upload. | [Live](https://ollama-chat-ui.pages.dev/) · [Source](https://github.com/RahimBangla/ollama-chat-ui) |
+| **ML Lab** | Machine-learning lab project served through a Django REST API with a React front end. | [Live](https://ml.yfbd.org/) · [Source](https://github.com/RahimBangla/ML-LAB-Project) |
+| **Flicker Engineering** | Company website for a real estate consultancy, architecture and structural design firm. | [Live](https://www.flickerengineering.com/) · [Source](https://github.com/RahimBangla/flickerengineering.com) |
+| **LocationApiBD** | Free JSON API of Bangladesh's divisions, districts, upazilas and unions, served from GitHub Pages. | [API](https://rahimbangla.com/LocationApiBD/) · [Source](https://github.com/RahimBangla/LocationApiBD) |
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=rahimbangla"/>
+## Career path
 
-</a>
+```console
+$ traceroute abdur-rahim
+traceroute to homepay.io, 5 hops max
+ 1  roshnicommunication.net  2016–2018  Founding network engineer, Roshni Communications (ISP, NOC)
+ 2  bms-tech-logistics       2018–2019  Junior executive, IT, BMS-Tech-Logistics Ltd.
+ 3  yfbd.org                 2018–2022  IT executive (part-time), Youth for Bangladesh
+ 4  enteridea.com            2019       Assistant technical officer, Enter Idea (Market24.com)
+ 5  homepay.io               2022–now   HomePay LLC, Dhaka
+      ├─ Technical lead               Jul 2025 – now
+      ├─ Senior programmer            Jul 2023 – Jun 2025
+      ├─ Software engineer            Apr 2022 – Jun 2023  (part-time)
+      └─ Quality assurance engineer   Mar 2022 – Mar 2023  (part-time)
+```
 
-![image](/dino.gif)
+## Stack
 
+<p>
+  <img src="stack.svg" width="100%" alt="My stack: C#, .NET, Azure, Kubernetes, Docker, GitHub Actions, TypeScript, JavaScript, React, Node.js, Express, Python, Django, PostgreSQL, Nginx, Linux, PHP, Laravel, Vue, Nuxt, MySQL, MongoDB, AWS, Google Cloud, Firebase, Go, Java, C++, Dart, Flutter, Angular, Git">
+</p>
 
-<h2><i>Follow me:</i></h2>
-<div  align="center">
+<details>
+<summary><b>Ranked by priority</b></summary>
+<br>
 
-  <a href="https://www.linkedin.com/in/abdurrahimbd/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/abdurrahimlive/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
-  </a>
-  <a href="https://www.facebook.com/abdurrahim.official" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
-  </a>
+| Languages | | Frameworks | | Technologies | |
+|---|---|---|---|---|---|
+| C# | `●●●●●●●●●●` | .NET Core | `●●●●●●●●●●` | Azure | `●●●●●●●●●●` |
+| TypeScript | `●●●●●●●●●○` | Azure Functions | `●●●●●●●●○○` | Kubernetes | `●●●●●●●●●○` |
+| JavaScript | `●●●●●●●●●○` | Node.js and Express | `●●●●●●●●○○` | Docker | `●●●●●●●●●○` |
+| Python | `●●●●●●●○○○` | React | `●●●●●●●●○○` | CI/CD pipelines | `●●●●●●●●●○` |
+| PHP | `●●●●●●●○○○` | Django and DRF | `●●●●●●●○○○` | Peer-to-peer VPN | `●●●●●●●●●○` |
+| SQL | `●●●●●●●○○○` | Laravel | `●●●●●●○○○○` | Serverless | `●●●●●●●●○○` |
+| Go | `●●●●●○○○○○` | Vue and Nuxt | `●●●●●●○○○○` | PostgreSQL | `●●●●●●●●○○` |
+| Java | `●●●●○○○○○○` | NetSuite SuiteScript | `●●●●●○○○○○` | MikroTik | `●●●●●●●●○○` |
+| C++ | `●●●●○○○○○○` | Angular | `●●●●○○○○○○` | Nginx | `●●●●●●●○○○` |
+| Dart | `●●●○○○○○○○` | Flutter | `●●●●○○○○○○` | MySQL | `●●●●●●●○○○` |
+| | | | | MongoDB | `●●●●●●○○○○` |
+| | | | | Ollama and local LLMs | `●●●●●●○○○○` |
+| | | | | AWS | `●●●●●○○○○○` |
+| | | | | Google Cloud | `●●●●●○○○○○` |
+| | | | | Firebase | `●●●●●○○○○○` |
 
- <a href="https://twitter.com/abdurrahimlive/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
-  </a>
-   <a href="mailto:rahimbd623@gmail.com" mailto="rahimbd623@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
-  </a>
-  <a href="https://www.freelancer.com.bd/u/rahimbd623" target="_blank">
-    <img src="https://img.shields.io/badge/Freelancer-%231877F2.svg?&style=flat-square&logo=freelancer&logoColor=white&color=071A2C" alt="Freelancer">
-  </a>
-  <a href="https://www.upwork.com/freelancers/~016954cb513093d0cb" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-%231877F2.svg?&style=flat-square&logo=upwork&logoColor=white&color=071A2C" alt="Upwork">
-  </a>
-<a href="https://www.fiverr.com/rahimbangla" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-%231877F2.svg?&style=flat-square&logo=fiver&logoColor=white&color=071A2C" alt="Fiverr">
-  </a>
-</div>
+Most of my C# and .NET work lives in private company repositories, so it doesn't show up in my public GitHub languages.
 
-<!-- <img src="https://i1.wp.com/slfgchurch.com/wp-content/uploads/2019/08/lets-connect-1.png?ssl=1" alt="connect" width="20%" height="10%">
-<!-- <a href="https://www.hackerrank.com/AbdurRahim">
-      <img src="https://additionalknowledge.files.wordpress.com/2017/12/hackerrank.png?w=600" height="10%" ; width="15%" ;></img></a>
-<a href="https://www.linkedin.com/in/abdurrahimbd/"> 
-  <img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011%E2%80%932019.png" height="10%" ; width="15%" ; margin-left:20px;></img></a> -->
+</details>
+
+---
+
+<p align="center">
+  <b>Say hello.</b> I'm open to new roles, collaborations and interesting problems.<br>
+  Email is the fastest way to reach me: <a href="mailto:rahimbd623@gmail.com">rahimbd623@gmail.com</a>
+</p>
