@@ -3,17 +3,17 @@
 </a>
 
 <p align="center">
-  <a href="mailto:rahimbd623@gmail.com"><img src="https://img.shields.io/badge/Email_me-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email me"></a>
-  <a href="https://rahimbangla.com"><img src="https://img.shields.io/badge/rahimbangla.com-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/abdurrahimbd/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge" alt="LinkedIn"></a>
-  <a href="https://x.com/rahimbd623"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X (Twitter)"></a>
-  <a href="https://t.me/RahimBangla"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=FFFFFF" alt="Telegram"></a>
+  <a href="mailto:rahimbd623@gmail.com"><img src="badges/email.svg" alt="Email me"></a>
+  <a href="https://rahimbangla.com"><img src="badges/website.svg" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/abdurrahimbd/"><img src="badges/linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://x.com/rahimbd623"><img src="badges/x.svg" alt="X (Twitter)"></a>
+  <a href="https://t.me/RahimBangla"><img src="badges/telegram.svg" alt="Telegram"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/in_tech_since-2016-000000?style=flat-square&labelColor=333333" alt="In tech since 2016">
-  <img src="https://img.shields.io/badge/roles_at_HomePay-4-000000?style=flat-square&labelColor=333333" alt="4 roles at HomePay">
-  <img src="https://img.shields.io/badge/based_in-Dhaka,_Bangladesh-000000?style=flat-square&labelColor=333333" alt="Based in Dhaka, Bangladesh">
+  <img src="badges/since.svg" alt="In tech since 2016">
+  <img src="badges/roles.svg" alt="4 roles at HomePay">
+  <img src="badges/dhaka.svg" alt="Based in Dhaka, Bangladesh">
   <img src="https://komarev.com/ghpvc/?username=RahimBangla&label=profile+views&color=000000&style=flat-square" alt="Profile views">
 </p>
 
